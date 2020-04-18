@@ -1,4 +1,23 @@
 # depslib dependency file v1.0
-1585999039 source:c:\users\maxi\desktop\nueva carpeta\calculadora\main.c
+1587241228 source:c:\users\maxi\desktop\clases de laboratorio\asd\calculadora\ingresoenteros.c
 	<stdio.h>
+	<stdlib.h>
+	"ingresoEnteros.h"
+
+1587241228 c:\users\maxi\desktop\clases de laboratorio\asd\calculadora\ingresoenteros.h
+
+1587241228 source:c:\users\maxi\desktop\clases de laboratorio\asd\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"ingresoEnteros.h"
+	"operaciones.h"
+
+1587241228 c:\users\maxi\desktop\clases de laboratorio\asd\calculadora\operaciones.h
+
+1587241228 source:c:\users\maxi\desktop\clases de laboratorio\asd\calculadora\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"operaciones.h"
 
